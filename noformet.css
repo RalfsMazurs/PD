@@ -1,0 +1,22 @@
+  body {
+    background-color: grey;
+    font-family: "Times New Roman";
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  #tabula {
+    width: 100%;
+    background-color: rgb(114, 207, 38);
+  }
+  div {
+    background-color: limegreen;
+    width: 1700px;
+    height: 250px;
+    border: 8px solid red;
+    margin: 20px;
+  }
+  img {
+    border: 20px solid rgb(255, 0, 0);
+  }
